@@ -1,0 +1,26 @@
+body{
+    
+    font-family: 'Roboto', sans-serif;
+}
+
+.author{
+    text-decoration: wavy;
+}
+
+.btn{
+    width: 10rem;
+    height: 2.5rem;
+}
+
+.card{
+    width: 50vw;
+    border-radius: 2.5rem;
+}
+
+i{
+    font-size: 3rem;
+    color: #f0f0f0;
+    border-radius: 1.2rem;
+    padding: 10px;
+}
+
